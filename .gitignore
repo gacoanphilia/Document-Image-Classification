@@ -2,3 +2,4 @@ data/
 .venv/
 .vscode/
 scripts/__pycache__
+models/
